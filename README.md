@@ -10,3 +10,5 @@ Move left and right using the arrow keys on your keyboard.
 ## Info
 
 Game was created using the Fantasy Console, Pico-8.
+
+The .p8 file can be opened in Pico-8. If you just want to view the Lua code, I've provided that too (udc_code.lua). 
